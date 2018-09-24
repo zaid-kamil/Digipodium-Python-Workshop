@@ -13,3 +13,10 @@ or
 
 **note** on windows, installation take five minutes, 
 but you should open the **cmd** or **anaconda prompt** in **administrator mode**
+
+### Run the scraper, with scrapy
+> open the **cmd or anaconda prompt**
+#### move into the directory using cd or copy the path
+``` cd c:/users/zaid/Desktop/workshop ```
+#### then execute (only if connected to internet)
+``` scrapy runspider itunes.py```
