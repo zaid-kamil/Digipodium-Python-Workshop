@@ -8,7 +8,7 @@
 or
 ```jupyter notebook```
 
-
+> - view [Basic](https://github.com/zaid-kamil/Digipodium-Python-Workshop/blob/master/basics.ipynb)
 > - check [visualization](https://github.com/zaid-kamil/Digipodium-Python-Worksop-/blob/master/Workshop_codes.ipynb)
 > - check [scraper](https://github.com/zaid-kamil/Digipodium-Python-Workshop/tree/master/scraper)
 > - view [python advance code](https://github.com/zaid-kamil/Digipodium-Python-Workshop/blob/master/python_advance_codes.ipynb)
