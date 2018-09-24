@@ -2,11 +2,11 @@
 <img src="Python Presentation september (1).png">
 
 #### [download anaconda](https://www.anaconda.com/download/#windows)
-> install
+> install it, like any other software (window 7 has problems)
 #### start jupyter via cmd or anaconda prompt or anaconda navigator
 ```jupyter lab```
 or
-```jupyter notebook``
+```jupyter notebook```
 
 
 > - check [visualization](https://github.com/zaid-kamil/Digipodium-Python-Worksop-/blob/master/Workshop_codes.ipynb)
