@@ -15,3 +15,4 @@ or
 > - [try awesome code](https://github.com/zaid-kamil/Digipodium-Python-Workshop/blob/master/try_this_thing.ipynb)
 > - [files handling data](https://github.com/zaid-kamil/Digipodium-Python-Workshop/tree/master/data)
 > - check [Machine Learning](https://github.com/zaid-kamil/Digipodium-Python-Workshop/tree/master/machine_learning)
+> - check [IOT](https://github.com/zaid-kamil/Digipodium-Python-Workshop/tree/master/iot)
