@@ -1,5 +1,5 @@
 # Digipodium-Python-Workshop-2018
-<img src="Python Presentation september (1).png">
+
 
 #### [download anaconda](https://www.anaconda.com/download/#windows)
 > install it, like any other software (window 7 has problems)
